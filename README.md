@@ -1,2 +1,2 @@
 # Tower-Defense
-My Tower Defense game made by following a Youtube tutorial
+The project I made while learning Unity
